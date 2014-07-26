@@ -1,0 +1,23 @@
+{
+  "name": "mysoft",
+  "version": "0.0.1",
+  "description": "online shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "nqviet733"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nqviet733/myshop.git"
+  },
+  "keywords": [
+    "online",
+    "shop"
+  ],
+  "author": "nqviet733@gmail.com",
+  "license": "free license",
+  "bugs": {
+    "url": "https://github.com/nqviet733/myshop/issues"
+  },
+  "homepage": "https://github.com/nqviet733/myshop"
+}
