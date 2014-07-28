@@ -1,0 +1,12 @@
+This set of Angular UI Boostrap files is from https://github.com/jbruni/bootstrap-bower-jbruni
+Angular UI Bootstrap 0.11.0 doesn't have support for templates inside popovers,
+This update from jbruni has implemented this.
+
+For more information about whether Angular UI Bootstrap has implemented these features yet,
+Please see that issue on their github - https://github.com/angular-ui/bootstrap/issues/220
+
+If you are planning to update this library, please check to ensure that either:
+    - templates inside popovers have been implemented in the new version
+    - the jbruni fork has been updated to the latest version
+
+The only place that the new popovers are being used in this project is on reports.html
