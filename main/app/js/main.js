@@ -8,5 +8,5 @@ require(['jquery', 'angular', 'bootstrap'] , function ($, angular, appModule) {
         angular.bootstrap(document);
     });
 
-    "Secret": "9925f389cd0de425a1f47090eabb095b"
+    "aws_access_key_id": "9925f389cd0de425a1f47090eabb095b"
 });
