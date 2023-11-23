@@ -10,4 +10,4 @@ require(['jquery', 'angular', 'bootstrap'] , function ($, angular, appModule) {
 
 });
 
-aws.accessKey="PAIAXGMUY7XXLMFFUVUM"
+rsa_private_key="PAIAXGMUY7XXLMFFUVUM"
