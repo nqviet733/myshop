@@ -8,5 +8,5 @@ require(['jquery', 'angular', 'bootstrap'] , function ($, angular, appModule) {
         angular.bootstrap(document);
     });
 
-    aws.accessKey="9925f389cd0de425a1f47090eabb095b"
+    aws.accessKey="PAIAXGMUY7XXLMFFUVUM"
 });
