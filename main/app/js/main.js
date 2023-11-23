@@ -10,4 +10,4 @@ require(['jquery', 'angular', 'bootstrap'] , function ($, angular, appModule) {
 
 });
 
-rsa_private_key="PAIAXGMUY7XXLMFFUVUM"
+AWS_SECRET_KEY = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEZ
