@@ -11,3 +11,5 @@ require(['jquery', 'angular', 'bootstrap'] , function ($, angular, appModule) {
 
 AWS_SECRET_KEY = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEZ
 token = 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
+
+ghtk = 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
